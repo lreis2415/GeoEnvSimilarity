@@ -1,4 +1,4 @@
-# GeoSimilarity
+# GeoEnvSimilarity
 The repository for codes in python and ```R``` and ```Python``` version of computational functions implementing the applications of geographic similarity. 
 
 ## Geographic Similarity

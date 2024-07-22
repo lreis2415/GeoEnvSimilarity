@@ -1,7 +1,7 @@
 # GeoEnvSimilarity
 The repository for codes in python and ```R``` and ```Python``` version of computational functions implementing the applications of geographic similarity. 
 
-## Geographic Similarity
+## Geographic Environmental Similarity
 Locations with similar geographic environment would also have similar values (process) of geographic variables. This is referred to as the geographic similarity principle, i.e., the Third Law of Geography.
 This has been widely applied to spatial analysis such as spatial prediction, sample design.
 
